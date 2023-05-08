@@ -1,0 +1,12 @@
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\bin\Debug\net7.0\Expenses.Models.deps.json
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\bin\Debug\net7.0\Expenses.Models.dll
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\bin\Debug\net7.0\Expenses.Models.pdb
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.csproj.AssemblyReference.cache
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.AssemblyInfoInputs.cache
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.AssemblyInfo.cs
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.csproj.CoreCompileInputs.cache
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.dll
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\refint\Expenses.Models.dll
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\Expenses.Models.pdb
+D:\Virtual Internship 2\Projetcs\Expenses Management System\Expenses\Expenses.Models\obj\Debug\net7.0\ref\Expenses.Models.dll
